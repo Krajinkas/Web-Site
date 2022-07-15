@@ -1,0 +1,43 @@
+#alpadam{
+    max-width: 100%;
+    height: auto;
+    width: 250px;
+}
+input-group-text{
+    margin-right: 100px;
+    margin-left: 100px;
+}
+.aboutUs{
+    width: 900px;
+    background-color: black;
+    height: auto;
+    margin:auto;
+    margin-bottom: 200px;
+
+}
+.forRight{
+    float:right;
+    width: 350px;
+    height: 350px;
+    margin-bottom: 100px;
+    
+
+ 
+}
+.pclass{ 
+    float:left;
+    width: 50%;
+}
+
+.social-icon
+{
+position: fixed;
+top: 48%;
+left: 0;
+z-index: 1;
+}
+.social-icon a{
+    display: block;
+    margin: 0 auto 3px 20px;
+    font-size: 30px;
+}
